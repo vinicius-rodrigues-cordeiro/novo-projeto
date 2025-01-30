@@ -1,3 +1,5 @@
 Repositório criado para uso acadêmico, testando funções do curso GIT & GITHUB do programa ONE, criado pela Alura junto a Oracle.
-Nele ha um pequeno projeto na linguagem JavaScript, onde pode-se conseguir a soma de dois numeros.
-Junto com ele ha um trecho de código do projeto Jogo do numero secreto, ainda em sua fase inicial, utilizado apenas para trabalhar funções como git init e git clone para fazer a junção de arquivos em abientes remotos e locais.
+Neste repositório ha dois projetos escritos na linguagem JavaScript.
+O primeiro projeto refere-se a fase inicial do jogo do numero secreto.
+O segundo projeto é uma função que realiza a soma de dois valores.
+A junção de ambos os projetos, ocorreu com o uso de conceitos e comandos do Git como: git init, git clone, git remote add, git pull e git push.
