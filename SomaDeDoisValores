@@ -1,8 +1,10 @@
 function calculoDeSoma(v1, v2) {
+    // variavel soma que recebe o valor resultante da adição das variaveis
     let soma = v1 + v2;
     return soma;
 }
-
+//criando duas variaveis para receber valores a serem somados
 let valor1 = 55;
 let valor2 = -122;
+//chamando a função que fara a soma dos valores
 calculoDeSoma(valor1, valor2);
