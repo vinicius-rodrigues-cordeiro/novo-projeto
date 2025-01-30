@@ -1,0 +1,77 @@
+Meus arquivos do git log - 30/01/2025 19:43;
+
+
+PS C:\Users\milar\novo-projeto> git log
+commit 84e14372ccf626430fa2fffa70a957e0f0508446 (HEAD -> main, origin/main, origin/HEAD)
+Merge: f93bdc0 23a318f
+Author: Vinicius Rodrigues Cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 17:10:34 2025 -0300
+
+    Merge branch 'main' of https://github.com/vinicius-rodrigues-cordeiro/novo-projeto  
+
+commit f93bdc0cd1f04ff2a10c9285917a729c532ad4d6
+Author: Vinicius Rodrigues Cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 17:10:29 2025 -0300
+
+    Descrevendo linhas de código
+
+commit 23a318f584aa34e84217491dcf8127efa11b7731
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 17:04:02 2025 -0300
+
+    Update README.md
+
+commit f946c87ea340dbd9e05df6d804b51bc16c67e8f9
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 16:59:10 2025 -0300
+
+    Update README.md
+
+commit 61a1bfe0b21073f822cb17272908740f39849127
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 16:58:26 2025 -0300
+
+    Update README.md
+
+commit d68444babcb1db822585db2580e0f73bbf94f4c3
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 16:57:22 2025 -0300
+
+    Update README.md
+
+commit b3a8a8f6f1e832c525dfd50a8358108eca4bd4bb
+Author: Vinicius Rodrigues Cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 16:10:40 2025 -0300
+
+    Alterando o valor das variaveis
+
+commit 9734489d736a2aad13e0ad2698b735eeb2c05f08
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 11:23:20 2025 -0300
+
+    Update SomaDeDoisValores
+
+commit d18a07b51744dacc1dc54bcd463a7e3976b44ff9
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 11:10:51 2025 -0300
+
+    Add files via upload
+
+commit 3d7998454fb263c9bd8b6ca45317aa70dfdd092d
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 11:07:06 2025 -0300
+
+    Update SomaDeDoisValores
+
+commit fda19f994692f9e87cb8eefbe9538d198deceb9b
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 11:03:18 2025 -0300
+
+    Create SomaDeDoisValores
+
+commit 14cea74010364bd3dc9538d2895264916b7935b6
+Author: vinicius-rodrigues-cordeiro <vrc_crv@outlook.com.br>
+Date:   Thu Jan 30 10:54:38 2025 -0300
+
+    Initial commit
+(END)
