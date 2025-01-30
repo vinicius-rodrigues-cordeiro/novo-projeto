@@ -3,6 +3,6 @@ function calculoDeSoma(v1, v2) {
     return soma;
 }
 
-let valor1 = 83;
-let valor2 = -59;
+let valor1 = 55;
+let valor2 = -122;
 calculoDeSoma(valor1, valor2);
